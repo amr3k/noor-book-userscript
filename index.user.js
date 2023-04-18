@@ -12,16 +12,16 @@
 // @run-at             document-end
 // ==/UserScript==
 
-(function() {
-    'use strict';
+(function () {
+  'use strict';
 
-    // Find the download link and click it
-    const modalLink = document.querySelector('#download_circle>a');
-    modalLink.addEventListener('click',() => {
-            window.go_gownload();
-        setTimeout(function() {
-            const downloadLink = document.querySelectorAll('.internal_download_link')[0];
-            downloadLink.click();
-        }, 500);
-    } );
+  // Find the download link and click it
+  const modalLink = document.querySelector('#download_circle>a');
+  modalLink.addEventListener('click', function() {
+    window.go_gownload();
+    setTimeout(function () {
+      const downloadLink = document.querySelectorAll('.internal_download_link')[0];
+      downloadLink.click();
+    }, 500);
+  });
 })();
