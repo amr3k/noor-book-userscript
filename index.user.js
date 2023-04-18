@@ -8,7 +8,7 @@
 // @author       amr3k - ع̲مِےـرۅ
 // @match        https://www.noor-book.com/*pdf
 // @icon         https://www.noor-book.com/publice/icons/favicon-96x96.png
-// @license            GPLv3
+// @license            GPL-3.0-only
 // @grant              none
 // @run-at             document-end
 // ==/UserScript==
