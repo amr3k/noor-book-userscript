@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Noor-book direct download - تحميل مباشر من مكتبة نور
-// @namespace    amr3k
+// @namespace    a3k
 // @version      1.0
 // @description  هذا البرنامج النصي يتخطي المؤقت التنازلي ويسمح بالتحميل المباشر دون انتظار
 // @description:disclaimer This script is intended for personal use only. The author is not responsible for any misuse of the tool or any legal issues that may arise from its use.
