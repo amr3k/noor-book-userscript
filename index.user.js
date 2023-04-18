@@ -4,10 +4,11 @@
 // @version      1.0
 // @description  هذا البرنامج النصي يتخطي المؤقت التنازلي ويسمح بالتحميل المباشر دون انتظار
 // @description:disclaimer This script is intended for personal use only. The author is not responsible for any misuse of the tool or any legal issues that may arise from its use.
+// @description:disclaimer هذا الملف النصي كِتب لغرض التعليم فقط والمؤلف لا يتحمل المسئولية القانونية الناتجة عن إساءة استخدامه.
 // @author       amr3k - ع̲مِےـرۅ
 // @match        https://www.noor-book.com/*pdf
 // @icon         https://www.noor-book.com/publice/icons/favicon-96x96.png
-// @license            MIT
+// @license            GPLv3
 // @grant              none
 // @run-at             document-end
 // ==/UserScript==
